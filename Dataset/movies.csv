@@ -7895,7 +7895,7 @@ movieId,title,genres
 94953,Wanderlust (2012),Comedy
 94959,Moonrise Kingdom (2012),Comedy|Drama|Romance
 94985,Get the Gringo (2012),Action|Crime|Drama|Thriller
-95004,Superman/Doomsday (2007) ,Action|Animation
+95004,Superman/Doomsday (2007),Action|Animation
 95067,"Thousand Words, A (2012)",Comedy|Drama
 95088,Safety Not Guaranteed (2012),Comedy|Drama
 95105,Madagascar 3: Europe's Most Wanted (2012),Adventure|Animation|Children|Comedy|IMAX
@@ -9030,7 +9030,7 @@ movieId,title,genres
 140850,Every Secret Thing (2014),Crime|Drama|Mystery|Thriller
 140852,964 Pinocchio (1991),Horror|Sci-Fi
 140928,Joy (2015),Comedy|Drama
-140956,Ready Player One,Action|Sci-Fi|Thriller
+140956,Ready Player One(2015),Action|Sci-Fi|Thriller
 141004,Victor Frankenstein (2015),Drama|Horror|Sci-Fi
 141131,Guardians (2016),(no genres listed)
 141400,Invincible Shaolin (1978),Action
@@ -9366,7 +9366,7 @@ movieId,title,genres
 162082,Train to Busan (2016),Action|Thriller
 162344,Tom Segura: Mostly Stories (2016),Comedy
 162350,The Magnificent Seven (2016),Action|Western
-162414,Moonlight,Drama
+162414,Moonlight(2016),Drama
 162478,Masterminds (2016),Action|Comedy|Crime
 162578,Kubo and the Two Strings (2016),Adventure|Animation|Children|Fantasy
 162590,Bridget Jones's Baby (2016),Comedy|Romance
@@ -9447,7 +9447,7 @@ movieId,title,genres
 167370,Assassin's Creed (2016),Action|Adventure|Sci-Fi
 167380,A Dog's Purpose (2017),Comedy|Drama
 167538,Microwave Massacre (1983),Horror
-167570,The OA,(no genres listed)
+167570,The OA(2017),(no genres listed)
 167634,Fist Fight (2017),Comedy
 167706,Shakespeare Behind Bars (2005),Documentary
 167732,A Street Cat Named Bob (2016),Comedy|Drama
@@ -9514,7 +9514,7 @@ movieId,title,genres
 171023,The Hero (2017),Drama
 171251,"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press (2017)",Documentary
 171495,Cosmos(2017),(no genres listed)
-171631,Maria Bamford: Old Baby,(no genres listed)
+171631,Maria Bamford: Old Baby(2010),(no genres listed)
 171695,Robin Williams: Live on Broadway (2002),Comedy
 171701,The Death of Louis XIV (2016),Drama
 171749,Death Note: Desu nôto (2006–2007),(no genres listed)
