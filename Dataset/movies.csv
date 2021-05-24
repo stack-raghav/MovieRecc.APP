@@ -6058,7 +6058,7 @@ movieId,title,genres
 40614,Derailed (2005),Drama|Thriller
 40617,Creep (2004),Horror|Thriller
 40629,Pride & Prejudice (2005),Drama|Romance
-40697,Babylon 5,Sci-Fi
+40697,Babylon 5(2005),Sci-Fi
 40723,Wolf Creek (2005),Crime|Horror|Thriller
 40732,"Descent, The (2005)",Adventure|Drama|Horror|Thriller
 40815,Harry Potter and the Goblet of Fire (2005),Adventure|Fantasy|Thriller|IMAX
@@ -6705,7 +6705,7 @@ movieId,title,genres
 58347,Penelope (2006),Comedy|Fantasy|Romance
 58351,City of Men (Cidade dos Homens) (2007),Drama
 58376,Zeitgeist: The Movie (2007),Documentary|War
-58404,Justice League: The New Frontier (2008) ,Action|Adventure|Animation|Fantasy|Sci-Fi
+58404,Justice League: The New Frontier (2008),Action|Adventure|Animation|Fantasy|Sci-Fi
 58425,Heima (2007),Documentary
 58492,Snow Angels (2007),Drama
 58554,"Class, The (Klass) (2007)",Drama
@@ -6717,7 +6717,7 @@ movieId,title,genres
 58806,Smart People (2008),Comedy|Drama|Romance
 58826,"Shepherd: Border Patrol, The (2008)",Action|Crime|Thriller
 58839,Leatherheads (2008),Comedy|Drama|Romance
-58842,Assembly (Ji jie hao) (2007) ,Action|Drama|War
+58842,Assembly (Ji jie hao) (2007),Action|Drama|War
 58870,Zebraman (2004),Comedy
 58876,Stop-Loss (2008),Drama|War
 58879,Shine a Light (2008),Documentary|Musical|IMAX
@@ -7877,7 +7877,7 @@ movieId,title,genres
 94325,"Lucky One, The (2012)",Drama
 94405,Safe (2012),Action|Crime|Thriller
 94478,Dark Shadows (2012),Comedy|Horror|IMAX
-94494,96 Minutes (2011) ,Drama|Thriller
+94494,96 Minutes (2011),Drama|Thriller
 94503,"Decoy Bride, The (2011)",Comedy|Romance
 94661,Rocket Singh: Salesman of the Year (2009),Comedy|Drama
 94677,"Dictator, The (2012)",Comedy
@@ -7909,7 +7909,7 @@ movieId,title,genres
 95170,Beauty and the Beast: The Enchanted Christmas (1997),Animation|Children|Fantasy|Musical
 95175,Front of the Class (2008),Drama
 95182,Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen) (1990),Action|Adventure|Animation|Sci-Fi
-95193,Pocahontas II: Journey to a New World (1998) ,Adventure|Animation|Children
+95193,Pocahontas II: Journey to a New World (1998),Adventure|Animation|Children
 95199,What to Expect When You're Expecting (2012),Comedy|Drama|Romance
 95201,To Rome with Love (2012),Comedy
 95207,Abraham Lincoln: Vampire Hunter (2012),Action|Fantasy|Horror|Thriller
@@ -7977,7 +7977,7 @@ movieId,title,genres
 96567,"Words, The (2012)",Drama|Romance
 96588,Pitch Perfect (2012),Comedy|Musical
 96606,Samsara (2011),Documentary
-96608,Runaway Brain (1995) ,Animation|Comedy|Sci-Fi
+96608,Runaway Brain (1995),Animation|Comedy|Sci-Fi
 96610,Looper (2012),Action|Crime|Sci-Fi
 96616,That's My Boy (2012),Comedy
 96655,Robot & Frank (2012),Comedy|Drama|Sci-Fi
@@ -8147,7 +8147,7 @@ movieId,title,genres
 102058,Hulk Vs. (2009),Animation
 102066,Resolution (2012),Horror|Thriller
 102070,Grabbers (2012),Comedy|Horror|Sci-Fi
-102084,Justice League: Doom (2012) ,Action|Animation|Fantasy
+102084,Justice League: Doom (2012),Action|Animation|Fantasy
 102088,"Grandmaster, The (Yi dai zong shi) (2013)",Action|Drama|IMAX
 102123,This Is the End (2013),Action|Comedy
 102125,Iron Man 3 (2013),Action|Sci-Fi|Thriller|IMAX
@@ -8227,7 +8227,7 @@ movieId,title,genres
 103883,2 Guns (2013),Action|Comedy|Crime
 103980,Blue Jasmine (2013),Drama
 103984,"Great Beauty, The (Grande Bellezza, La) (2013)",Comedy|Drama
-104017,3 dev adam (Three Giant Men) (1973) ,Action|Adventure|Sci-Fi
+104017,3 dev adam (Three Giant Men) (1973),Action|Adventure|Sci-Fi
 104069,Louis C.K.: Oh My God (2013),Comedy
 104074,Percy Jackson: Sea of Monsters (2013),Adventure|Children|Fantasy
 104076,"Smurfs 2, The (2013)",Animation|Children|Comedy
@@ -8301,7 +8301,7 @@ movieId,title,genres
 106542,Charlie Countryman (2013),Action|Comedy|Romance
 106594,Red Flag (2012),Comedy|Drama|Romance
 106642,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi
-106648,Guilty of Romance (Koi no tsumi) (2011) ,Crime|Drama|Horror
+106648,Guilty of Romance (Koi no tsumi) (2011),Crime|Drama|Horror
 106696,Frozen (2013),Adventure|Animation|Comedy|Fantasy|Musical|Romance
 106766,Inside Llewyn Davis (2013),Drama
 106782,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama
@@ -8564,7 +8564,7 @@ movieId,title,genres
 116419,Drive Hard (2014),Action|Comedy|Crime
 116505,New Kids Nitro (2011),Action|Comedy
 116529,Stalingrad (2013),Action|Drama|War|IMAX
-116668,Dead Snow 2: Red vs. Dead (2014) ,Action|Comedy|Horror
+116668,Dead Snow 2: Red vs. Dead (2014),Action|Comedy|Horror
 116718,Volga - Volga (1938),Comedy|Musical
 116724,You Are the Apple of My Eye (2011),Comedy|Drama|Romance
 116738,DeadHeads (2011),Adventure|Comedy|Horror
@@ -9090,7 +9090,7 @@ movieId,title,genres
 143365,The Circle (2016),Drama|Sci-Fi|Thriller
 143367,Silence (2016),Drama|Thriller
 143385,Bridge of Spies (2015),Drama|Thriller
-143410,Hyena Road,(no genres listed)
+143410,Hyena Road(2015),(no genres listed)
 143458,The Great Hypnotist (2014),Drama|Mystery|Thriller
 143472,Into the Grizzly Maze (2015),Action|Horror|Thriller
 143511,Human (2015),Documentary
@@ -9137,7 +9137,7 @@ movieId,title,genres
 147002,Eros (2004),Drama|Romance
 147142,Those Happy Days (2006),Children|Comedy
 147196,The Girls (1961),Comedy|Romance
-147250,The Adventures of Sherlock Holmes and Doctor Watson,(no genres listed)
+147250,The Adventures of Sherlock Holmes and Doctor Watson(1979),(no genres listed)
 147282,What Men Still Talk About (2011),Comedy
 147286,The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra (1983),Crime|Mystery
 147300,Adventures Of Sherlock Holmes And Dr. Watson: The Twentieth Century Approaches (1986),Crime|Mystery
@@ -9178,7 +9178,7 @@ movieId,title,genres
 149144,Parasyte: Part 1 (2014),Horror|Sci-Fi
 149146,Parasyte: Part 2 (2015),Horror|Sci-Fi
 149330,A Cosmic Christmas (1977),(no genres listed)
-149334,Nocturnal Animals,Drama|Thriller
+149334,Nocturnal Animals(1977),Drama|Thriller
 149350,Lumberjack Man (2015),Comedy|Horror
 149352,Daddy's Home (2015),Comedy
 149354,Sisters (2015),Children|Comedy
@@ -9258,7 +9258,7 @@ movieId,title,genres
 156371,Everybody Wants Some (2016),Comedy
 156387,Sing Street (2016),Drama
 156553,Zoom (2015),Animation|Comedy|Drama
-156605,Paterson,(no genres listed)
+156605,Paterson(2106),(no genres listed)
 156607,The Huntsman Winter's War (2016),Action|Adventure|Drama|Fantasy
 156609,Neighbors 2: Sorority Rising (2016),Comedy
 156675,Project X (1968),Mystery|Sci-Fi
@@ -9513,7 +9513,7 @@ movieId,title,genres
 171011,Planet Earth II (2016),Documentary
 171023,The Hero (2017),Drama
 171251,"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press (2017)",Documentary
-171495,Cosmos,(no genres listed)
+171495,Cosmos(2017),(no genres listed)
 171631,Maria Bamford: Old Baby,(no genres listed)
 171695,Robin Williams: Live on Broadway (2002),Comedy
 171701,The Death of Louis XIV (2016),Drama
@@ -9524,7 +9524,7 @@ movieId,title,genres
 171765,Okja (2017),Action|Adventure|Drama|Sci-Fi
 171811,Embassy (2013),Comedy|Sci-Fi|War
 171867,Rough Night (2017),Comedy|Drama
-171891,Generation Iron 2,(no genres listed)
+171891,Generation Iron 2(2015),(no genres listed)
 171917,Mystère à la Tour Eiffel (2015),Drama|Mystery|Thriller
 172013,Stefan Zweig: Farewell to Europe (2016),Drama
 172215,Saved by the Bell: Hawaiian Style (1992),Comedy
@@ -9610,7 +9610,7 @@ movieId,title,genres
 176419,Mother! (2017),Drama|Horror|Mystery|Thriller
 176423,Icarus (2017),Documentary
 176579,Cage Dive (2017),Drama|Horror|Thriller
-176601,Black Mirror,(no genres listed)
+176601,Black Mirror(2017),(no genres listed)
 176621,Boniface's Holiday (1965),Animation|Children|Comedy|Romance
 176751,American Made (2017),Crime|Thriller
 176805,Little Boxes (2017),Comedy|Drama
